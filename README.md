@@ -8,6 +8,6 @@
   <li>Go to the code section and dowload the ZIP File</li>
   <li>After downloading you will have two files .One file is a main html file and other is the resource file</li>
   <li>Just double click on the main html file which is named as HOME Techno Motors </li>
-  <li>And Volaa... You have ur website which is fully interactive and fully animated ,it is the best userfriendly and user attractive website for the car service genre </li>
+  <li>And... You have your website which is fully interactive,dynamic and fully animated ,it is the best userfriendly and user attractive website for the car service genre </li>
 </ol>
 <h5><p>If any inconvienience please feel free to contact on my g-mail:<h4><u>rohithv.0802@gmail.com</u></h4></p></h5>
